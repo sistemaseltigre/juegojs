@@ -1,0 +1,27 @@
+#baseJuego{
+  border: 1px;
+  border-style: solid;
+  border-color: #000000;
+  background-color: #87E4E1;
+}
+#baseNave{
+  /*background-color: #ffffff;*/
+}
+#capaNave{
+  z-index: 100;
+  margin-top: -610px;
+  margin-left: 1px;
+  position: fixed;
+}
+#capaArmas{
+  z-index: 100;
+  margin-top: -610px;
+  margin-left: 1px;
+  position: fixed;
+}
+#capaEnemigos{
+  z-index: 101;
+  margin-top: -610px;
+  margin-left: 1px;
+  position: fixed;
+}
